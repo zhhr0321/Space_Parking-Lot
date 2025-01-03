@@ -1,9 +1,15 @@
+# Space Parking Lot
+## Course Work of VG151 at UM-SJTU JI  
+
+If there are similar projects in the future, JI students are responsible for not copying or modifying these codes or files, as this would be against the Honor Code.  
+
+The owner of this repository should not be held responsible for anyone else's errors.
+
 # Project 3 (Group 03)
-[![Build Status](https://focs.ji.sjtu.edu.cn:2222/api/badges/ENGR151-22/pgroup-03/status.svg)](https://focs.ji.sjtu.edu.cn:2222/ENGR151-22/pgroup-03)
 The contribution: the project 3 is mainly completed by us five we together wrote the project with fully preparation and discussion. we discussed the classes, the heritance, and the functions together, we first wrote a clear structure of what we would do steps by steps and distributed the tasks to individuals first, then we together arrange the parts and fully get it polished and workable.
-- Wang yutong contributes to the version one mainly, she provides us with great organization and clear class arrangement. 
-- Mao xinyue follows the whole part of the milestones and offers the strong connection between the milestones and the fitness of each part.
-- Zhang haoran constructs the pms mostlly and write the code with thorough consideration of the all the shapes and inheritances.And also write the turn, zoom, changecolor in ipa. 
+- ### Haoran Zhang(Me) constructs the pms mostlly. Independently write the code with thorough consideration of the all the shapes and inheritances.And also write the turn, zoom, change color in ipa part. 
+- Wang yutong contributes to the version one mainly. 
+- Mao xinyue follows the whole part of the milestones.
 - Ye zi organizes the tasks properly and write the code of the funcitons and movements. 
 - Xu ziyu writes the readme file and the the graphes, also the milestone 2 partly.
 The debug part is only done by ZhangHaoran and Xuziyu.
