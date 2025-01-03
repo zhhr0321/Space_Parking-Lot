@@ -7,7 +7,7 @@ The owner of this repository should not be held responsible for anyone else's er
 
 # Project 3 (Group 03)
 The contribution: the project 3 is mainly completed by us five we together wrote the project with fully preparation and discussion. we discussed the classes, the heritance, and the functions together, we first wrote a clear structure of what we would do steps by steps and distributed the tasks to individuals first, then we together arrange the parts and fully get it polished and workable.
-- ### Haoran Zhang(Me) constructs the pms mostlly. Independently write the code with thorough consideration of the all the shapes and inheritances, builds up the project structure of second part.And also write the turn, zoom, changecolor in ipa part. 
+- ### Haoran Zhang(Me) constructs the pms mostlly. Independently write the code with thorough consideration of the all the shapes and inheritances.And also write the turn, zoom, change color in ipa part. 
 - Wang yutong contributes to the version one mainly. 
 - Mao xinyue follows the whole part of the milestones.
 - Ye zi organizes the tasks properly and write the code of the funcitons and movements. 
